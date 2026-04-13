@@ -1,43 +1,82 @@
-# Hi 👋 I'm Rabindra Kushwaha
+# 👋 Hi, I'm Rabindra Kushwaha
 
-🚀 Full Stack Developer (MERN)  
-🤖 Building AI-powered web applications  
+<p align="center">
+  🚀 <b>Full Stack Developer (MERN)</b> <br/>
+  🤖 Building AI-powered Web Applications <br/>
+  💡 Turning ideas into real-world projects
+</p>
 
 ---
 
-## 🔥 About Me
-- 💻 Passionate about Web Development  
-- ⚡ Skilled in MERN Stack  
-- 🚀 Love building real-world projects  
+## 🧑‍💻 About Me
+
+* 💻 Passionate about Web Development
+* ⚡ Skilled in MERN Stack
+* 🔥 Love building scalable & real-world apps
+* 🚀 Currently working on AI-based projects
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Deployment: Render, Netlify  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github" />
+</p>
 
 ---
 
-## 🚀 Projects
-- 🔹 AI Resume Analyzer  
-- 🔹 Portfolio Website  
-- 🔹 Food Recipe App  
+## 🚀 Featured Projects
 
----
+🔹 **AI Resume Analyzer**
+👉 AI-based resume analysis with suggestions
+🌐 Live: https://cv-check-ai.netlify.app
 
-## 🌐 Live Links
-- Portfolio: https://itsrkdev.netlify.app 
-- AI Resume Analyzer: https://cv-check-ai.netlify.app
+🔹 **Portfolio Website**
+👉 Personal portfolio with backend integration
+🌐 Live: https://itsrkdev.netlify.app
+
+🔹 **Food Recipe App**
+👉 Recipe browsing & UI-based project
+🌐 Live: https://itsfoodrecipe.netlify.app
 
 ---
 
 ## 📊 GitHub Stats
-🔥 Always learning & building  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- Email: rabindrakushwaha0001@gmail.com
-- LinkedIn: your link  
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrkdev&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  📧 Email: rabindrakushwaha0001@gmail.com <br/>
+  🔗 LinkedIn: your-linkedin-link <br/>
+  🌐 Portfolio: https://itsrkdev.netlify.app
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💬 I turn coffee ☕ into code & ideas into products 🚀
+
