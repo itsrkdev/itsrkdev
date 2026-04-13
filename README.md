@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-<<p align="center">
+ <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrkdev&theme=tokyonight" />
 </p>
 
