@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rabindra Kushwaha
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Powered+Web+Apps;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Powered+Web+Apps;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center">
