@@ -56,11 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight" />
-
 </p>
 
 ---
@@ -68,7 +64,6 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&v=1" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight&v=1" height="170" />
 </p>
 
