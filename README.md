@@ -1,25 +1,37 @@
 # 👋 Hi, I'm Rabindra Kushwaha
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+Powered+Web+Apps;Building+Real+World+Projects;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
   🚀 <b>Full Stack Developer (MERN)</b> <br/>
   🤖 Building AI-powered Web Applications <br/>
-  💡 Turning ideas into real-world projects
+  💡 Turning ideas into real-world products
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsrkdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💻 Passionate about Web Development
-* ⚡ Skilled in MERN Stack
-* 🔥 Love building scalable & real-world apps
-* 🚀 Currently working on AI-based projects
+- 💻 Passionate about Web Development  
+- ⚡ Skilled in MERN Stack  
+- 🔥 Love building scalable & real-world apps  
+- 🚀 Currently working on AI-based projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
- <p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github" />
 </p>
 
@@ -27,34 +39,33 @@
 
 ## 🚀 Featured Projects
 
-🔹 **AI Resume Analyzer**
-👉 AI-based resume analysis with suggestions
-🌐 Live: https://cv-check-ai.netlify.app
+🔹 **AI Resume Analyzer**  
+👉 AI-based resume analysis with suggestions  
+🌐 https://cv-check-ai.netlify.app  
 
-🔹 **Portfolio Website**
-👉 Personal portfolio with backend integration
-🌐 Live: https://itsrkdev.netlify.app
+🔹 **Portfolio Website**  
+👉 Personal portfolio with backend integration  
+🌐 https://itsrkdev.netlify.app  
 
-🔹 **Food Recipe App**
-👉 Recipe browsing & UI-based project
-🌐 Live: https://itsfoodrecipe.netlify.app
+🔹 **Food Recipe App**  
+👉 Recipe browsing & UI-based project  
+🌐 https://itsfoodrecipe.netlify.app  
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrkdev&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -69,10 +80,10 @@
 
 ## 📫 Connect With Me
 
-<p>
-  📧 Email: rabindrakushwaha0001@gmail.com <br/>
+<p align="center">
+  📧 rabindrakushwaha0001@gmail.com <br/>
   🔗 LinkedIn: your-linkedin-link <br/>
-  🌐 Portfolio: https://itsrkdev.netlify.app
+  🌐 https://itsrkdev.netlify.app
 </p>
 
 ---
