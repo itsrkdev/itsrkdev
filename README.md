@@ -68,7 +68,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=onedark&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
