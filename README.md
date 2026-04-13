@@ -81,7 +81,7 @@
 
 <p align="center">
   📧 rabindrakushwaha0001@gmail.com <br/>
-  🔗 LinkedIn: your-linkedin-link <br/>
+  🔗 LinkedIn: https://www.linkedin.com/in/rabindra-kushwaha-809312171<br/>
   🌐 https://itsrkdev.netlify.app
 </p>
 
