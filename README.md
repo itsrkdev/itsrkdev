@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rabindra Kushwaha
 
-<p align="center">
+<p >
   🚀 <b>Full Stack Developer (MERN)</b> <br/>
   🤖 Building AI-powered Web Applications <br/>
   💡 Turning ideas into real-world projects
