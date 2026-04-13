@@ -54,7 +54,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=darkhub&no-frame=true" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=darkhub&no-frame=true&margin-w=20" alt="github trophies" />
 </p>
 
 ---
