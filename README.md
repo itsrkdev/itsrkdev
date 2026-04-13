@@ -19,13 +19,9 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux,tailwind,js,html,css,git,github,postman,netlify,vercel,threejs,clojure" />
-</p>
-
-<!-- <p>
+ <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github" />
-</p> -->
+</p>
 
 ---
 
