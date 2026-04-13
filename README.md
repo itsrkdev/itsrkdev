@@ -67,8 +67,10 @@
 
 ## 🏆 Achievements
 
-<p![Stats](https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&v=1" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrkdev&theme=tokyonight&v=1" height="170" />
+</p>
 
 ---
 
