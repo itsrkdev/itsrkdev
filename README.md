@@ -53,9 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=darkhub" />
-</p>
+<p<img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=tokyonight&no-frame=true&row=1" />
 
 ---
 
