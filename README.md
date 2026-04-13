@@ -68,8 +68,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrkdev&layout=compact&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&show=reviews,discussions,prs,merged_prs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrkdev&layout=compact&theme=tokyonight&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="170" />
 </p>
 
 ---
