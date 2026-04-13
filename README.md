@@ -68,7 +68,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsrkdev&theme=onedark&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrkdev&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrkdev&show_icons=true&theme=tokyonight&show=reviews,discussions,prs,merged_prs" height="170" />
 </p>
 
 ---
