@@ -69,6 +69,13 @@
         <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
       </p>
     </td>
+      <td width="25%">
+      <p align="center"><b>E-Commerce Website (Romato)</b></p>
+      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/1ae1fbc1-aee7-4765-8a85-a5043b311ede" />
+      <p align="center">
+        <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
+      </p>
+    </td>
   </tr>
 </table>
 
