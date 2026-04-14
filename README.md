@@ -44,7 +44,7 @@
   <tr>
     <td width="25%">
       <p align="center"><b>AI Resume Analyzer</b></p>
-     <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/a615e29e-a3bf-4c3d-98d6-6bed770d78a8" />
+     <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/d2865bc1-df50-41dc-9e3c-35b2cd7244fb" />
       <p align="center"><a href="https://cv-check-ai.netlify.app">Live</a> | <a href="#">Code</a></p>
     </td>
     <td width="25%">
