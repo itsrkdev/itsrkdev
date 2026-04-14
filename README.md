@@ -111,10 +111,16 @@
 ## 📫 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/rabindra-kushwaha-809312171" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
+<a href="mailto:rabindrakushwaha0001@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
+<a href="https://itsrkdev.netlify.app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=netlify" height="40" width="40" /></a>
+</p>
+
+<!-- <p align="center">
   📧 rabindrakushwaha0001@gmail.com <br/>
   🔗 LinkedIn: https://www.linkedin.com/in/rabindra-kushwaha-809312171<br/>
   🌐 https://itsrkdev.netlify.app
-</p>
+</p> -->
 
 ---
 
