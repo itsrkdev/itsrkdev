@@ -77,8 +77,8 @@
 👉 Recipe browsing & UI-based project  
 🌐 https://itsfoodrecipe.netlify.app  
 
-🔹 **Weather App**  
-👉 Real-time weather tracking & location-based UI project 
+🔹 **Weather App** 
+👉 Real-time weather tracking & location-based UI project
 🌐 https://itsliveweather.netlify.app
 
 ---
