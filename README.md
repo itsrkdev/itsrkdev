@@ -79,7 +79,7 @@
       <img width="100%" src="YOUR_WEATHER_APP_SCREENSHOT_URL" />
       <p align="center"><a href="https://itsliveweather.netlify.app">Live</a> | <a href="#">Code</a></p>
     </td>
-    
+     </tr>
 </table>
 
 
