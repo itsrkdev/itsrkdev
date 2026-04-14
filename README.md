@@ -41,17 +41,30 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="25%">
       <p align="center"><b>AI Resume Analyzer</b></p>
      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/13790980-6125-484d-819f-8c564671f033" />
-      <!-- <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+Here" width="100%" /> -->
       <p align="center">
         <a href="https://cv-check-ai.netlify.app">Live</a> | <a href="#">Code</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="25%">
       <p align="center"><b>Portfolio Website</b></p>
-      <img src="https://via.placeholder.com/400x200?text=Portfolio+Screenshot+Here" width="100%" />
+      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/c5bbca71-0ce6-4c9f-8053-2cbe33f1af5e" />
+      <p align="center">
+        <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
+      </p>
+    </td>
+    <td width="25%">
+      <p align="center"><b>Portfolio Website</b></p>
+      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/c5bbca71-0ce6-4c9f-8053-2cbe33f1af5e" />
+      <p align="center">
+        <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
+      </p>
+    </td>
+    <td width="25%">
+      <p align="center"><b>Portfolio Website</b></p>
+      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/c5bbca71-0ce6-4c9f-8053-2cbe33f1af5e" />
       <p align="center">
         <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
       </p>
