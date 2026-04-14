@@ -43,7 +43,7 @@
   <tr>
     <td width="50%">
       <p align="center"><b>AI Resume Analyzer</b></p>
-      <img width="100%" height="100%" alt="Image" src="https://github.com/user-attachments/assets/63216382-2ce2-4305-9ebb-37bf7acc046d" />
+     <img width="1300" height="826" alt="Image" src="https://github.com/user-attachments/assets/13790980-6125-484d-819f-8c564671f033" />
       <!-- <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+Here" width="100%" /> -->
       <p align="center">
         <a href="https://cv-check-ai.netlify.app">Live</a> | <a href="#">Code</a>
