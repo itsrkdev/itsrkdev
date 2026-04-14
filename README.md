@@ -37,6 +37,28 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <p align="center"><b>AI Resume Analyzer</b></p>
+      <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+Here" width="100%" />
+      <p align="center">
+        <a href="https://cv-check-ai.netlify.app">Live</a> | <a href="#">Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center"><b>Portfolio Website</b></p>
+      <img src="https://via.placeholder.com/400x200?text=Portfolio+Screenshot+Here" width="100%" />
+      <p align="center">
+        <a href="https://itsrkdev.netlify.app">Live</a> | <a href="#">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## 🚀 Featured Projects
 
 🔹 **AI Resume Analyzer**  
