@@ -44,7 +44,7 @@
   <tr>
     <td width="25%">
       <p align="center"><b>AI Resume Analyzer</b></p>
-      <i<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/a615e29e-a3bf-4c3d-98d6-6bed770d78a8" />
+     <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/a615e29e-a3bf-4c3d-98d6-6bed770d78a8" />
       <p align="center"><a href="https://cv-check-ai.netlify.app">Live</a> | <a href="#">Code</a></p>
     </td>
     <td width="25%">
@@ -73,7 +73,7 @@
     </td>
     <td width="25%">
       <p align="center"><b>Weather App</b></p>
-      <<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/37d4ce70-710c-4aae-8516-e219bcad63ce" />
+      <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/37d4ce70-710c-4aae-8516-e219bcad63ce" />
       <p align="center"><a href="https://itsliveweather.netlify.app">Live</a> | <a href="#">Code</a></p>
     </td>
      </tr>
