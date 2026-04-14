@@ -112,16 +112,6 @@
     </td>
   </tr>
 </table> -->
-
-
-🔹 **Food Recipe App**  
-👉 Recipe browsing & UI-based project  
-🌐 https://itsfoodrecipe.netlify.app  
-
-🔹 **Weather App** <br/>
-👉 Real-time weather tracking & location-based UI project<br/>
-🌐 https://itsliveweather.netlify.app
-
 ---
 
 ## 📊 GitHub Stats
