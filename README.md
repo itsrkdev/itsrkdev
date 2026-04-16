@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>MERN Stack Developer (MongoDB, Express.js, React, Node.js) 🏆 Certified Developer (Grade A++)</b>
+  🚀 <b>MERN Stack Developer (MongoDB, Express.js, React, Node.js) 🏆 Certified Developer (Grade A++)</b><br>
   🤖 Building AI-powered Web Applications <br/>
   💡 Turning ideas into real-world products
 </p>
