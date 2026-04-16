@@ -106,19 +106,25 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rabindra-kushwaha-809312171" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rabindrakushwaha0001@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://itsrkdev.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" />
-  </a>
-</p>
+<<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/rabindra-kushwaha-809312171" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:rabindrakushwaha0001@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://itsrkdev.netlify.app" target="_blank">
+        <img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
