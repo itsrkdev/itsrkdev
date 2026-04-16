@@ -106,7 +106,7 @@
 
 ## 📫 Connect With Me
 
-<<table align="center">
+<table align="center">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/rabindra-kushwaha-809312171" target="_blank">
